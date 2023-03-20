@@ -15,3 +15,10 @@ Question 2
 https://editor.p5js.org/evansoucy17/sketches/BrGwee3c-
 
 For assignment 3.2 I changed the code so that when the mouse is pressed the arms of my sprite raise and the eyes turn red. The only issue I ran into slight difficulty was getting all of the syntax correct to make sure my function worked properly. 
+
+
+Question 3
+https://editor.p5js.org/evansoucy17/sketches/BrGwee3c-
+
+For assignment 3.3 I had to create a sprite and create a funciton so when the mouse is pressed once the sprite falls. I created my sprite to look like a fly and was able to add it to my function. I had a lot of difficulty figuring out how to get it to fall with the added functions. But once I created a mousePressed function I was able to figure it out. But I defined Speed Y after I used it initially and it wasn't working, once I figured out the correct order it worked and the sprite started to fall once the mouse was pressed. 
+
