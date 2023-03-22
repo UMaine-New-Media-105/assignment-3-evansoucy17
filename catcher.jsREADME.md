@@ -22,3 +22,7 @@ https://editor.p5js.org/evansoucy17/sketches/BrGwee3c-
 
 For assignment 3.3 I had to create a sprite and create a funciton so when the mouse is pressed once the sprite falls. I created my sprite to look like a fly and was able to add it to my function. I had a lot of difficulty figuring out how to get it to fall with the added functions. But once I created a mousePressed function I was able to figure it out. But I defined Speed Y after I used it initially and it wasn't working, once I figured out the correct order it worked and the sprite started to fall once the mouse was pressed. 
 
+Question 4 
+https://editor.p5js.org/evansoucy17/sketches/-ggGcCzeA
+
+For assignment 3.4 I had to add a test to the code to see when the fly was falling and once it i falling to reset to the top of the page once it hits the ground. I had a bit of trouble figuring out the exact stynatx of what I need to write but once I was able to figure that out it worked .
